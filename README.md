@@ -1,1 +1,1 @@
-# InventoryManagementSystem project using Java and Layered Architecture
+# POSSystem using Java with Layered Architecture
